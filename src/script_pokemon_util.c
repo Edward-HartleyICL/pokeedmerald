@@ -84,6 +84,28 @@ u8 ScriptGiveMon(u16 species, u8 level, u16 item, u32 unused1, u32 unused2, u8 u
     return sentToPc;
 }
 
+u8 ScriptOverwriteMon(u16 species, u8 level, u16 item, u32 partyIndex, u32 unused2, u8 unused3)
+{
+    u16 nationalDexNum;
+    int sentToPc;
+    u8 heldItem[2];
+    struct Pokemon mon;
+
+    CreateMon(&mon, species, level, USE_RANDOM_IVS, FALSE, 0, OT_ID_PLAYER_ID, 0);
+    heldItem[0] = item;
+    heldItem[1] = item >> 8;
+    SetMonData(&mon, MON_DATA_HELD_ITEM, heldItem);
+
+    SetPlayerMon(&mon, partyIndex);
+
+    nationalDexNum = SpeciesToNationalPokedexNum(species);
+
+
+    GetSetPokedexFlag(nationalDexNum, FLAG_SET_SEEN);
+    GetSetPokedexFlag(nationalDexNum, FLAG_SET_CAUGHT);
+    return MON_GIVEN_TO_PARTY;
+}
+
 u8 ScriptGiveEgg(u16 species)
 {
     struct Pokemon mon;

@@ -4392,6 +4392,17 @@ u8 GiveMonToPlayer(struct Pokemon *mon)
     return MON_GIVEN_TO_PARTY;
 }
 
+u8 SetPlayerMon(struct Pokemon *mon, u32 partyIndex)
+{
+
+    SetMonData(mon, MON_DATA_OT_NAME, gSaveBlock2Ptr->playerName);
+    SetMonData(mon, MON_DATA_OT_GENDER, &gSaveBlock2Ptr->playerGender);
+    SetMonData(mon, MON_DATA_OT_ID, gSaveBlock2Ptr->playerTrainerId);
+
+    CopyMon(&gPlayerParty[partyIndex], mon, sizeof(*mon));
+    return MON_GIVEN_TO_PARTY;
+}
+
 static u8 SendMonToPC(struct Pokemon *mon)
 {
     s32 boxNo, boxPos;
