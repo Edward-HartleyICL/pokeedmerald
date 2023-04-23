@@ -698,23 +698,26 @@ LittlerootTown_ProfessorBirchsLab_Text_LikeYouToHavePokemon:
 	.string "you pulled it off with aplomb!\p"
 	.string "I guess you have your father's blood\n"
 	.string "in your veins after all!\p"
-	.string "Oh, yes. As thanks for rescuing me,\n"
-	.string "I'd like you to have the POKéMON you\l"
+	.string "Of course, you're not nearly ready\n"
+	.string "for a POKéMON like the one you\l"
 	.string "used earlier.\p"
-	.string "{PLAYER} received the {STR_VAR_1}!$"
+	.string "In fact, I'm not sure you're ready\n"
+	.string "for a POKéMON at all...\p"
+	.string "Here, play with this.\p"
+	.string "{PLAYER} received a {STR_VAR_1}!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_WhyNotGiveNicknameToMon:
 	.string "PROF. BIRCH: While you're at it, why not\n"
 	.string "give a nickname to that {STR_VAR_1}?$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MightBeGoodIdeaToGoSeeRival:
-	.string "PROF. BIRCH: If you work at POKéMON\n"
-	.string "and gain experience, I think you'll make\l"
-	.string "an extremely good TRAINER.\p"
-	.string "My kid, {RIVAL}, is also studying\n"
-	.string "POKéMON while helping me out.\p"
-	.string "{PLAYER}{KUN}, don't you think it might be\n"
-	.string "a good idea to go see {RIVAL}?$"
+	.string "PROF. BIRCH: If you work at training\n"
+	.string "and gain experience, I think someday\l"
+	.string "you'll be ready for a POKéMON.\p"
+	.string "My kid, {RIVAL}, is also learning\n"
+	.string "to train while helping me out.\p"
+	.string "{PLAYER}{KUN}, do you want to go and\n"
+	.string "play with {RIVAL}?$"
 
 LittlerootTown_ProfessorBirchsLab_Text_GetRivalToTeachYou:
 	.string "PROF. BIRCH: Great!\n"

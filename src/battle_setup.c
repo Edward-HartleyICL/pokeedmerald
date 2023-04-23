@@ -46,6 +46,7 @@
 #include "constants/trainers.h"
 #include "constants/trainer_hill.h"
 #include "constants/weather.h"
+#include "constants/species.h"
 
 enum {
     TRANSITION_TYPE_NORMAL,
@@ -919,7 +920,7 @@ static void CB2_GiveStarter(void)
 
     *GetVarPointer(VAR_STARTER_MON) = gSpecialVar_Result;
     starterMon = GetStarterPokemon(gSpecialVar_Result);
-    ScriptGiveMon(starterMon, 5, ITEM_NONE, 0, 0, 0);
+    ScriptGiveMon(starterMon, 90, ITEM_NONE, 0, 0, 0);
     ResetTasks();
     PlayBattleBGM();
     SetMainCallback2(CB2_StartFirstBattle);
@@ -948,6 +949,12 @@ static void CB2_StartFirstBattle(void)
 
 static void CB2_EndFirstBattle(void)
 {
+    u16 realStarter;
+    realStarter = SPECIES_ZIGZAGOON;
+    
+    // 4th argument is party position, 5th and 6th are unused
+    ScriptOverwriteMon(realStarter, 5, ITEM_NONE, 0, 0, 0);
+
     Overworld_ClearSavedMusic();
     SetMainCallback2(CB2_ReturnToFieldContinueScriptPlayMapMusic);
 }
