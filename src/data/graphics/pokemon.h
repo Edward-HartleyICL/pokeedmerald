@@ -2712,6 +2712,13 @@ const u32 gMonShinyPalette_Chimecho[] = INCBIN_U32("graphics/pokemon/chimecho/sh
 const u8 gMonIcon_Chimecho[] = INCBIN_U8("graphics/pokemon/chimecho/icon.4bpp");
 const u8 gMonFootprint_Chimecho[] = INCBIN_U8("graphics/pokemon/chimecho/footprint.1bpp");
 
+const u32 gMonStillFrontPic_Dog[] = INCBIN_U32("graphics/pokemon/dog/front.4bpp.lz");
+const u32 gMonPalette_Dog[] = INCBIN_U32("graphics/pokemon/dog/normal.gbapal.lz");
+const u32 gMonBackPic_Dog[] = INCBIN_U32("graphics/pokemon/dog/back.4bpp.lz");
+const u32 gMonShinyPalette_Dog[] = INCBIN_U32("graphics/pokemon/dog/shiny.gbapal.lz");
+const u8 gMonIcon_Dog[] = INCBIN_U8("graphics/pokemon/dog/icon.4bpp");
+const u8 gMonFootprint_Dog[] = INCBIN_U8("graphics/pokemon/dog/footprint.1bpp");
+
 const u32 gMonStillFrontPic_Egg[] = INCBIN_U32("graphics/pokemon/egg/front.4bpp.lz");
 const u32 gMonPalette_Egg[] = INCBIN_U32("graphics/pokemon/egg/normal.gbapal.lz");
 
