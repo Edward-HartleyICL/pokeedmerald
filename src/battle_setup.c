@@ -950,7 +950,7 @@ static void CB2_StartFirstBattle(void)
 static void CB2_EndFirstBattle(void)
 {
     u16 realStarter;
-    realStarter = SPECIES_ZIGZAGOON;
+    realStarter = SPECIES_DOG;
     
     // 4th argument is party position, 5th and 6th are unused
     ScriptOverwriteMon(realStarter, 5, ITEM_NONE, 0, 0, 0);
