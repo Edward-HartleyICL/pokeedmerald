@@ -11664,7 +11664,7 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .safariZoneFleeRate = 0,
         .bodyColor = BODY_COLOR_BLUE,
         .noFlip = FALSE,
-    }
+    },
 
     [SPECIES_DOG] =
     {

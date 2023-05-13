@@ -9385,7 +9385,7 @@ const u32 gTMHMLearnsets[][2] =
                                         | TMHM(TM49_SNATCH)
                                         | TMHM(HM05_FLASH)),
 
-    [SPECIES_CHIMECHO]    = TMHM_LEARNSET(TMHM(TM04_CALM_MIND)
+    [SPECIES_DOG]    = TMHM_LEARNSET(TMHM(TM04_CALM_MIND)
                                         | TMHM(TM05_ROAR)
                                         | TMHM(TM08_BULK_UP)
                                         | TMHM(TM10_HIDDEN_POWER)
@@ -9398,6 +9398,6 @@ const u32 gTMHMLearnsets[][2] =
                                         | TMHM(TM43_SECRET_POWER)
                                         | TMHM(TM44_REST)
                                         | TMHM(TM45_ATTRACT)
-                                        | TMHM(TM46_THIEF),
+                                        | TMHM(TM46_THIEF)),
                                         
 };
