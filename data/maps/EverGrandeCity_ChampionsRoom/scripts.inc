@@ -273,14 +273,23 @@ EverGrandeCity_ChampionsRoom_Text_PostBattleSpeech:
 EverGrandeCity_ChampionsRoom_Text_MayAdvice:
 	.string "JAMES: {PLAYER}{KUN}!\p"
 	.string "Here's some advice before you challenge\n"
-	.string "the CHAMPION…$"
+	.string "the CHAMPION…\p"
+	.string "You already know you're the best,\n"
+	.string "now go show them.$"
 
 EverGrandeCity_ChampionsRoom_Text_MayItsAlreadyOver:
 	.string "JAMES: Huh?\n"
 	.string "What, what, what?\p"
 	.string "{PLAYER}{KUN}…\n"
 	.string "Could it be that…\l"
-	.string "It's already over?$"
+	.string "It's already over?\p"
+	.string "Oh my godddddd, wowowowoo\n"
+	.string "You did it!!!! Whoohoooo!\l"
+	.string "You are the ONE.\l"
+	.string "This is the way, they have spoken!\l"
+	.string "{PLAYER}! {PLAYER}! {PLAYER}! {PLAYER}!\p"
+	.string "Ahem... I mean,n"
+	.string "Good job, bro.$"
 
 EverGrandeCity_ChampionsRoom_Text_BrendanAdvice:
 	.string "BRENDAN: {PLAYER}!\p"
@@ -333,7 +342,9 @@ EverGrandeCity_ChampionsRoom_Text_MayCongratulations:
 	.string "I'm just joking! That's okay!\n"
 	.string "That's the rule!\p"
 	.string "{PLAYER}{KUN}!\n"
-	.string "Honestly, congratulations!$"
+	.string "Honestly, congratulations!\p"
+	.string "Seems like you're the very\n"
+	.string "best now, {PLAYER}{KUN}!$"
 
 EverGrandeCity_ChampionsRoom_Text_BrendanCongratulations:
 	.string "BRENDAN: Whaaaat?! … … … … …\n"

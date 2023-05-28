@@ -415,15 +415,15 @@ LilycoveCity_EventScript_DontKnowAboutBerryBlender::
 LilycoveCity_Text_MayShoppingLetsBattle:
 	.string "JAMES: Oh, hey?\n"
 	.string "{PLAYER}{KUN}, are you shopping, too?\p"
-	.string "I bought a whole bunch of DOLLS and\n"
-	.string "POSTERS.\p"
+	.string "I bought a whole bunch of BOOKS and\n"
+	.string "POKéMON EQUIPMENT.\p"
 	.string "Of course, I've also caught a lot of\n"
-	.string "POKéMON, and I'm raising them\l"
+	.string "POKéMON, and I'm investigating them\l"
 	.string "properly, too.\p"
 	.string "Actually, I'm more worried if you're\n"
 	.string "raising POKéMON properly, {PLAYER}{KUN}.\p"
 	.string "I'll battle with you, so you can show\n"
-	.string "me your POKéMON, {PLAYER}{KUN}.$"
+	.string "me your POKéMON.$"
 
 LilycoveCity_Text_MayNotRaisingPokemon:
 	.string "JAMES: Oh, why? {PLAYER}{KUN}, haven't you\n"
@@ -436,27 +436,28 @@ LilycoveCity_Text_MayBattleMe:
 	.string "check out your POKéMON!$"
 
 LilycoveCity_Text_MayWontBeBeaten:
-	.string "JAMES: The POKéMON I raised won't be\n"
+	.string "JAMES: The POKéMON I selected won't be\n"
 	.string "beaten by your POKéMON, {PLAYER}{KUN}!$"
 
 LilycoveCity_Text_MayDefeat:
 	.string "… … … … … … … …\p"
 	.string "I remember the battle I had with you,\n"
 	.string "{PLAYER}{KUN}, on ROUTE 103.\p"
-	.string "That battle helped you become this\n"
-	.string "strong, {PLAYER}{KUN}, didn't it?$"
+	.string "How have you overtaken me so\n"
+	.string "quickly? And without proper\l"
+	.string "raising practices!$"
 
 LilycoveCity_Text_MayGoingBackToLittleroot:
 	.string "JAMES: I'm thinking of going back to\n"
 	.string "LITTLEROOT soon.\p"
 	.string "I've caught a decent group of POKéMON,\n"
 	.string "and my POKéDEX is coming along, so\l"
-	.string "I'm going home to show my dad.$"
+	.string "I'm going home to show the PROF.$"
 
 LilycoveCity_Text_MayYouGoingToCollectBadges:
-	.string "{PLAYER}{KUN}, what are you going to do?\p"
-	.string "Collect all the GYM BADGES and take\n"
-	.string "the POKéMON LEAGUE challenge?\p"
+	.string "{PLAYER}{KUN}, I'm guessing you're\p"
+	.string "going to collect all the GYM BADGES\n"
+	.string "and beat the POKéMON LEAGUE?\p"
 	.string "Well, while you're collecting BADGES,\n"
 	.string "{PLAYER}{KUN}, I'm going to work on my\l"
 	.string "POKéDEX. I'll complete it before you!\p"

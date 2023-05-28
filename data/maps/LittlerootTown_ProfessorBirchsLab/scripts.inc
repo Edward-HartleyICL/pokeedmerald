@@ -726,6 +726,7 @@ LittlerootTown_ProfessorBirchsLab_Text_MightBeGoodIdeaToGoSeeRival:
 LittlerootTown_ProfessorBirchsLab_Text_GetRivalToTeachYou:
 	.string "PROF. BIRCH: Great!\n"
 	.string "{RIVAL} will be happy to have some company.\p"
+	.string "He struggles to make friends, you know?\p"
 	.string "I've given {RIVAL} some tips already\n"
 	.string "on what means to be a TRAINER.$"
 
@@ -826,7 +827,7 @@ LittlerootTown_ProfessorBirchsLab_Text_SeriousLookingMachine:
 
 LittlerootTown_ProfessorBirchsLab_Text_PCUsedForResearch:
 	.string "It's a PC used for research.\n"
-	.string "Although it only seems to be used\n"
+	.string "Although it only seems to be used\p"
 	.string "for a game called Kanto total War.\n"
 	.string "Better not mess around with it.$"
 

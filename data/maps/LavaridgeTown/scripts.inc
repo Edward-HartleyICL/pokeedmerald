@@ -278,13 +278,13 @@ LavaridgeTown_EventScript_HerbShopSign::
 
 LavaridgeTown_Text_MayNiceBadgesTakeThis:
 	.string "JAMES: {PLAYER}{KUN}! Long time no see!\p"
-	.string "Oh? While I visited the hot springs,\n"
+	.string "Oh? While I visited the game store,\n"
 	.string "you got the LAVARIDGE GYM BADGE.\p"
 	.string "You must have collected\n"
 	.string "good POKéMON…\l"
 	.string "No, I believe you raised some.\p"
-	.string "I guess it would be okay for you to\n"
-	.string "have this.$"
+	.string "Hey, you should have these, you\n"
+	.string "deserve them.$"
 
 LavaridgeTown_Text_MayExplainGoGogglesChallengeDad:
 	.string "JAMES: With those GO-GOGGLES, you'll\n"
@@ -292,10 +292,10 @@ LavaridgeTown_Text_MayExplainGoGogglesChallengeDad:
 	.string "desert near ROUTE 111.\p"
 	.string "But, wow, {PLAYER}{KUN}…\n"
 	.string "Challenging GYMS…\p"
-	.string "You're trying hard because you don't\n"
-	.string "want to lose to me, I bet!\p"
-	.string "{PLAYER}{KUN}, I think I should challenge\n"
-	.string "your dad in PETALBURG GYM.\p"
+	.string "I always knew you were good, but i bet\n"
+	.string "ED isn't far behind!\p"
+	.string "{PLAYER}{KUN}, maybe it's time you\n"
+	.string "challenge dad in ORMELBURG GYM.\p"
 	.string "See you again!$"
 
 LavaridgeTown_Text_BrendanNiceBadgesTakeThis:

@@ -1117,7 +1117,7 @@ Route104_Text_MayIntro:
 
 Route104_Text_MayDefeat:
 	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.string "That was surprisingly good!$"
 
 Route104_Text_MayPostBattle:
 	.string "JAMES: I can tell you've gotten pretty\n"

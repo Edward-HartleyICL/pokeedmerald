@@ -485,6 +485,7 @@ Route119_Text_MayIntro:
 	.string "How much stronger have you gotten?\n"
 	.string "Let me check for you!\p"
 	.string "Ready with your POKéMON?\n"
+	.string "Oh yeah, and OLIVE!\l"
 	.string "Of course you are! Go!$"
 
 Route119_Text_MayDefeat:

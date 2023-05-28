@@ -306,12 +306,13 @@ Route103_Text_MayDefeated:
 	.string "{PLAYER}{KUN}, you're pretty good!$"
 
 Route103_Text_MayTimeToHeadBack:
-	.string "JAMES: I think I know why my dad has\n"
-	.string "an eye out for you now.\p"
-	.string "I mean, you just got that POKéMON,\n"
-	.string "but it already likes you.\p"
-	.string "You might be able to befriend any\n"
-	.string "kind of POKéMON easily.\p"
+	.string "JAMES: I think I know what the PROF\n"
+	.string "sees in you now.\p"
+	.string "I mean you just managed to beat my\n"
+	.string "POKéMON with a dog.\p"
+	.string "Those kind of skills will\n"
+	.string "transfer to POKéMON easily.\p"
+	.string "Once you're old enough of course.\p"
 	.string "Well, it's time to head back to\n"
 	.string "the LAB.$"
 
