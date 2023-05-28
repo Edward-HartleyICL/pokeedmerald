@@ -789,14 +789,14 @@ LittlerootTown_ProfessorBirchsLab_Text_CatchCutePokemonWithPokeBalls:
 	.string "POKéMON!\p"
 	.string "I'm going to look all over the place\n"
 	.string "because I want different POKéMON.\p"
-	.string "If I find any cute POKéMON, I'll catch\n"
+	.string "If I find any cool POKéMON, I'll catch\n"
 	.string "them with POKé BALLS!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_OhYourBagsFull:
 	.string "Oh? Your BAG's full.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayWhereShouldIGoNext:
-	.string "MAY: I wonder where I should go look\n"
+	.string "ED: I wonder where I should go look\n"
 	.string "for POKéMON next?$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanGotPokedexTooTakeThese:
@@ -841,6 +841,8 @@ LittlerootTown_ProfessorBirchsLab_Text_OtherRegionsUpgradeToNational:
 	.string "PROF. BIRCH: Now…\p"
 	.string "{PLAYER}{KUN} and {RIVAL}, I've had the two\n"
 	.string "of you help me study POKéMON.\p"
+	.string "Although, {PLAYER}{KUN}, you don't seem\n"
+	.string "to be focusing on catching them much...\p"
 	.string "Thanks to your help, new facts\n"
 	.string "are coming to light.\p"
 	.string "It appears that in the HOENN region,\n"
@@ -855,10 +857,10 @@ LittlerootTown_ProfessorBirchsLab_Text_OtherRegionsUpgradeToNational:
 	.string "Here, let me see your POKéDEX units.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayUpgradeSoCool:
-	.string "MAY: Eheheh!\p"
-	.string "It's so cool that even my POKéDEX\n"
-	.string "is getting updated!\p"
-	.string "It's because you went out and caught\n"
+	.string "ED: Eheheh!\p"
+	.string "You can thank me that your POKéDEX\n"
+	.string "is getting updated too!\p"
+	.string "It's because I went out and caught\n"
 	.string "so many POKéMON, {PLAYER}{KUN}!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanYouCanThankMe:
@@ -885,7 +887,7 @@ LittlerootTown_ProfessorBirchsLab_Text_GrassyPatchWaiting2:
 	.string "that's waiting for you!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayTakeBreakFromFieldwork:
-	.string "MAY: I think I'll take a short break\n"
+	.string "ED: I've gotta take a short break\n"
 	.string "from fieldwork.\p"
 	.string "I think I'll help the PROF here for\n"
 	.string "a while.$"
@@ -967,7 +969,8 @@ LittlerootTown_ProfessorBirchsLab_Text_GrassyPatchWaiting:
 
 LittlerootTown_ProfessorBirchsLab_Text_BetterLeaveOthersAlone:
 	.string "You received the promised POKéMON.\n"
-	.string "Better leave the others alone.$"
+	.string "Better leave the others alone.\n"
+	.string "I know you'll just reset to get them.$"
 
 @ Unused
 LittlerootTown_ProfessorBirchsLab_Text_DontHaveAnyRoomForPokemon:
@@ -975,13 +978,14 @@ LittlerootTown_ProfessorBirchsLab_Text_DontHaveAnyRoomForPokemon:
 	.string "this POKéMON.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayWhatNextImStayingHere:
-	.string "MAY: {PLAYER}{KUN}, after this…\n"
+	.string "ED: {PLAYER}{KUN}, after this…\n"
 	.string "What are you going to do?\p"
 	.string "Are you going to keep battling\n"
 	.string "and sharpening your skills?\p"
 	.string "Or are you going to try filling\n"
 	.string "the NATIONAL POKéDEX?\p"
-	.string "I'm staying here to help the PROF.$"
+	.string "I'm going to become a POKéMON breeder.\n"
+	.string "Lol jk, I'm going to get really strong.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanPreferCollectingSlowly:
 	.string "BRENDAN: Rather than collecting\n"
@@ -989,7 +993,7 @@ LittlerootTown_ProfessorBirchsLab_Text_BrendanPreferCollectingSlowly:
 	.string "steadily raising the one I chose.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayHaveYouGoneToBattleFrontier:
-	.string "MAY: Oh, hi, {PLAYER}{KUN}!\n"
+	.string "ED: Oh, hi, {PLAYER}{KUN}!\n"
 	.string "Have you gone to that place,\l"
 	.string "the BATTLE FRONTIER?$"
 
