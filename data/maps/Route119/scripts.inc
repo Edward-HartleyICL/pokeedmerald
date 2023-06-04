@@ -75,8 +75,8 @@ Route119_EventScript_BattleMay::
 	msgbox Route119_Text_MayIntro, MSGBOX_DEFAULT
 	switch VAR_STARTER_MON
 	case 0, Route119_EventScript_BattleMayTreecko
-	case 1, Route119_EventScript_BattleMayTorchic
-	case 2, Route119_EventScript_BattleMayMudkip
+	case 1, Route119_EventScript_BattleMayTreecko
+	case 2, Route119_EventScript_BattleMayTreecko
 	end
 
 Route119_EventScript_BattleMayTreecko::

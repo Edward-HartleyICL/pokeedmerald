@@ -867,8 +867,8 @@ RustboroCity_EventScript_BattleMay::
 	msgbox RustboroCity_Text_MayImNotGoingToLose, MSGBOX_DEFAULT
 	switch VAR_STARTER_MON
 	case 0, RustboroCity_EventScript_BattleMayTreecko
-	case 1, RustboroCity_EventScript_BattleMayTorchic
-	case 2, RustboroCity_EventScript_BattleMayMudkip
+	case 1, RustboroCity_EventScript_BattleMayTreecko
+	case 2, RustboroCity_EventScript_BattleMayTreecko
 	end
 
 RustboroCity_EventScript_MayBrineyHint::

@@ -406,8 +406,8 @@ Route110_EventScript_MayBattle::
 	msgbox Route110_Text_MayLetsBattle, MSGBOX_DEFAULT
 	switch VAR_STARTER_MON
 	case 0, Route110_EventScript_MayBattleTreecko
-	case 1, Route110_EventScript_MayBattleTorchic
-	case 2, Route110_EventScript_MayBattleMudkip
+	case 1, Route110_EventScript_MayBattleTreecko
+	case 2, Route110_EventScript_MayBattleTreecko
 	end
 
 Route110_EventScript_MayBattleTreecko::

@@ -147,8 +147,8 @@ Route104_EventScript_BattleMay::
 	msgbox Route104_Text_MayIntro, MSGBOX_DEFAULT
 	switch VAR_STARTER_MON
 	case 0, Route104_EventScript_BattleMayTreecko
-	case 1, Route104_EventScript_BattleMayTorchic
-	case 2, Route104_EventScript_BattleMayMudkip
+	case 1, Route104_EventScript_BattleMayTreecko
+	case 2, Route104_EventScript_BattleMayTreecko
 	end
 
 Route104_EventScript_MayDefeated::
