@@ -1943,6 +1943,10 @@ Cry_Dog::
 	.incbin	"sound/direct_sound_samples/cries/gulpin.bin"
 
 	.align 2
+Cry_DogOld::
+	.incbin	"sound/direct_sound_samples/cries/arcanine.bin"
+
+	.align 2
 DirectSoundWaveData_register_noise::
 	.incbin "sound/direct_sound_samples/register_noise.bin"
 

@@ -393,6 +393,7 @@ const u32 gMonFrontPic_Jirachi[] = INCBIN_U32("graphics/pokemon/jirachi/anim_fro
 const u32 gMonFrontPic_Deoxys[] = INCBIN_U32("graphics/pokemon/deoxys/anim_front.4bpp.lz");
 const u32 gMonFrontPic_Chimecho[] = INCBIN_U32("graphics/pokemon/chimecho/anim_front.4bpp.lz");
 const u32 gMonFrontPic_Dog[] = INCBIN_U32("graphics/pokemon/dog/anim_front.4bpp.lz");
+const u32 gMonFrontPic_DogOld[] = INCBIN_U32("graphics/pokemon/dog_old/anim_front.4bpp.lz");
 
 const u32 gMonFrontPic_Egg[] = INCBIN_U32("graphics/pokemon/egg/anim_front.4bpp.lz");
 

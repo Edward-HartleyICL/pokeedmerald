@@ -2325,3 +2325,9 @@ const u8 gDogPokedexText[] = _(
     "But oh boy is it cute.\n"
     "I guess it gets a pass then, for being such\n"
     "a cute little creature!");
+
+const u8 gDogOldPokedexText[] = _(
+    "It doesn't seem to be a POKéMON but\n"
+    "it's loyalty for it's trainer\n"
+    "makes up for it. It's been said that\n"
+    "it can chew through anything. Literally.");

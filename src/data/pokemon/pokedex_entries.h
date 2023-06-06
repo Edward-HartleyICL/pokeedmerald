@@ -4655,4 +4655,16 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerScale = 256,
         .trainerOffset = 0,
     },
+
+    [NATIONAL_DEX_DOG_OLD] =
+    {
+        .categoryName = _("ANIMAL"),
+        .height = 3,
+        .weight = 40,
+        .description = gDogOldPokedexText,
+        .pokemonScale = 433,
+        .pokemonOffset = -7,
+        .trainerScale = 256,
+        .trainerOffset = 0,
+    },
 };

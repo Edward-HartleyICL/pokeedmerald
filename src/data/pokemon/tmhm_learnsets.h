@@ -9398,6 +9398,26 @@ const u32 gTMHMLearnsets[][2] =
                                         | TMHM(TM43_SECRET_POWER)
                                         | TMHM(TM44_REST)
                                         | TMHM(TM45_ATTRACT)
-                                        | TMHM(TM46_THIEF)),
+                                        | TMHM(TM46_THIEF)
+                                        | TMHM(HM01_CUT)),
+
+    [SPECIES_DOG_OLD]    = TMHM_LEARNSET(TMHM(TM04_CALM_MIND)
+                                        | TMHM(TM05_ROAR)
+                                        | TMHM(TM08_BULK_UP)
+                                        | TMHM(TM10_HIDDEN_POWER)
+                                        | TMHM(TM12_TAUNT)
+                                        | TMHM(TM15_HYPER_BEAM)
+                                        | TMHM(TM28_DIG)
+                                        | TMHM(TM29_PSYCHIC)
+                                        | TMHM(TM31_BRICK_BREAK)
+                                        | TMHM(TM32_DOUBLE_TEAM)
+                                        | TMHM(TM42_FACADE)
+                                        | TMHM(TM43_SECRET_POWER)
+                                        | TMHM(TM44_REST)
+                                        | TMHM(TM45_ATTRACT)
+                                        | TMHM(TM46_THIEF)
+                                        | TMHM(TM50_OVERHEAT)
+                                        | TMHM(HM01_CUT)
+                                        | TMHM(HM04_STRENGTH)),
                                         
 };
