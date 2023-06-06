@@ -2719,6 +2719,13 @@ const u32 gMonShinyPalette_Dog[] = INCBIN_U32("graphics/pokemon/dog/shiny.gbapal
 const u8 gMonIcon_Dog[] = INCBIN_U8("graphics/pokemon/dog/icon.4bpp");
 const u8 gMonFootprint_Dog[] = INCBIN_U8("graphics/pokemon/dog/footprint.1bpp");
 
+const u32 gMonStillFrontPic_DogOld[] = INCBIN_U32("graphics/pokemon/dog_old/front.4bpp.lz");
+const u32 gMonPalette_DogOld[] = INCBIN_U32("graphics/pokemon/dog_old/normal.gbapal.lz");
+const u32 gMonBackPic_DogOld[] = INCBIN_U32("graphics/pokemon/dog_old/back.4bpp.lz");
+const u32 gMonShinyPalette_DogOld[] = INCBIN_U32("graphics/pokemon/dog_old/shiny.gbapal.lz");
+const u8 gMonIcon_DogOld[] = INCBIN_U8("graphics/pokemon/dog_old/icon.4bpp");
+const u8 gMonFootprint_DogOld[] = INCBIN_U8("graphics/pokemon/dog_old/footprint.1bpp");
+
 const u32 gMonStillFrontPic_Egg[] = INCBIN_U32("graphics/pokemon/egg/front.4bpp.lz");
 const u32 gMonPalette_Egg[] = INCBIN_U32("graphics/pokemon/egg/normal.gbapal.lz");
 
