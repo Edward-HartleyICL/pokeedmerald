@@ -5636,18 +5636,20 @@ static const u16 sDogLevelUpLearnset[] = {
 };
 
 static const u16 sDogOldLevelUpLearnset[] = {
-    LevelUpMove( 31, MOVE_BEAT_UP),
-    LevelUpMove( 32, MOVE_DIG),
-    LevelUpMove( 35, MOVE_BONE_CLUB),
-    LevelUpMove( 37, MOVE_CRUNCH),
-    LevelUpMove( 38, MOVE_HYPER_FANG),
-    LevelUpMove( 42, MOVE_SUBMISSION),
-    LevelUpMove( 45, MOVE_YAWN),
-    LevelUpMove( 46, MOVE_THRASH),
-    LevelUpMove( 49, MOVE_REST),
-    LevelUpMove( 51, MOVE_EXTREME_SPEED),
-    LevelUpMove( 52, MOVE_ASSIST),
-    LevelUpMove( 56, MOVE_MUDDY_WATER),
-    LevelUpMove( 62, MOVE_METRONOME),
+    LEVEL_UP_MOVE(29, MOVE_FRUSTRATION),
+    LEVEL_UP_MOVE(29, MOVE_RETURN),
+    LEVEL_UP_MOVE( 31, MOVE_BEAT_UP),
+    LEVEL_UP_MOVE( 32, MOVE_DIG),
+    LEVEL_UP_MOVE( 35, MOVE_BONE_CLUB),
+    LEVEL_UP_MOVE( 37, MOVE_CRUNCH),
+    LEVEL_UP_MOVE( 38, MOVE_HYPER_FANG),
+    LEVEL_UP_MOVE( 42, MOVE_SUBMISSION),
+    LEVEL_UP_MOVE( 45, MOVE_YAWN),
+    LEVEL_UP_MOVE( 46, MOVE_THRASH),
+    LEVEL_UP_MOVE( 49, MOVE_REST),
+    LEVEL_UP_MOVE( 51, MOVE_EXTREME_SPEED),
+    LEVEL_UP_MOVE( 52, MOVE_ASSIST),
+    LEVEL_UP_MOVE( 56, MOVE_MUDDY_WATER),
+    LEVEL_UP_MOVE( 62, MOVE_METRONOME),
     LEVEL_UP_END
 };
