@@ -469,50 +469,52 @@ MauvilleCity_Text_UncleHesTooPeppy:
 
 MauvilleCity_Text_WallyWantToChallengeGym:
 	.string "ED: Aww, UNCLE, please?\p"
-	.string "I want to challenge this GYM and see\n"
-	.string "how much better I've become.\p"
-	.string "Please? May I, please?$"
+	.string "Why can't I challenge this GYM and\n"
+	.string "see how much better I've become?\p"
+	.string "What's the worst that will happen?$"
 
 MauvilleCity_Text_UncleYourePushingIt:
 	.string "UNCLE: Now hold on, ED.\p"
-	.string "Since you started living with POKéMON,\n"
+	.string "Since you started training,\n"
 	.string "you have grown quite a lot stronger.\p"
-	.string "But don't you think you're pushing it\n"
-	.string "to suddenly challenge a GYM?$"
+	.string "But your POKéMON could get really\n"
+	.string "injured when you challenge a GYM!$"
 
 MauvilleCity_Text_WallyWeCanBeatAnyone:
-	.string "ED: I'm not pushing it.\p"
-	.string "If I combine forces with RALTS,\n"
-	.string "we can beat anyone!$"
+	.string "ED: I'll keep them safe.\p"
+	.string "Besides, SHUCKLE basically\n"
+	.string "can't be hurt...$"
 
 MauvilleCity_Text_WallyWillYouBattleMe:
-	.string "ED: Oh! Hi, {PLAYER}!\p"
+	.string "ED: Oh! Hey, {PLAYER}!\p"
 	.string "I've gotten a lot stronger since\n"
-	.string "we met.\p"
-	.string "{PLAYER}, I want you and my UNCLE to\n"
-	.string "understand that.\p"
-	.string "{PLAYER}, please, will you have\n"
-	.string "a battle with me?$"
+	.string "you last saw me.\p"
+	.string "I've learnt about my POKéMON\n"
+	.string "too.\p"
+	.string "{PLAYER}, can we battle so I can\n"
+	.string "see if I've actually improved?\p"
+	.string "You know, all the trainers round\n"
+	.string "here are too easy compared to you.$"
 
 MauvilleCity_Text_WallyMyUncleWontKnowImStrong:
-	.string "ED: Oh… If you won't battle me,\n"
-	.string "{PLAYER}, my UNCLE won't know that I've\l"
-	.string "become really strong.$"
+	.string "ED: Oh… too scared to battle me,\n"
+	.string "huh {PLAYER}? I'll even offer to\l"
+	.string "heal your party up first.$"
 
 MauvilleCity_Text_UncleCanYouBattleWally:
-	.string "UNCLE: {PLAYER}{KUN}, was it?\n"
-	.string "On ED's behalf, can I ask you to\l"
-	.string "battle with him just this once?\p"
-	.string "I don't think he's going to listen to\n"
-	.string "any reason the way he is now.$"
+	.string "UNCLE: {PLAYER}{KUN}, are you\n"
+	.string "going to battle ED? I'll need to\l"
+	.string "go get some popcorn.\p"
+	.string "I don't think he's going to back\n"
+	.string "down the way he is now.$"
 
 MauvilleCity_Text_WallyPleaseBattleMe:
-	.string "ED: {PLAYER}, please!\n"
-	.string "Battle with me, please.$"
+	.string "ED: {PLAYER}, come onnnn!\n"
+	.string "Battle with me?$"
 
 MauvilleCity_Text_WallyHereICome:
-	.string "ED: {PLAYER}, thank you.\p"
-	.string "Okay… Here I come!$"
+	.string "ED: {PLAYER}, alright.\p"
+	.string You had better be ready!$"
 
 MauvilleCity_Text_WallyDefeat:
 	.string "ED: … … … … … … …\p"
@@ -520,7 +522,7 @@ MauvilleCity_Text_WallyDefeat:
 	.string "I lost…$"
 
 MauvilleCity_Text_WallyIllGoBackToVerdanturf:
-	.string "ED: UNCLE…\n"
+	.string "ED: DAMN…\n"
 	.string "I'll go back to VERDANTURF…$"
 
 MauvilleCity_Text_ThankYouNotEnoughToBattle:
@@ -533,19 +535,19 @@ MauvilleCity_Text_ThankYouNotEnoughToBattle:
 MauvilleCity_Text_UncleNoNeedToBeDown:
 	.string "UNCLE: ED, there's no need to be so\n"
 	.string "down on yourself.\p"
-	.string "Why, what's keeping you from becoming\n"
-	.string "stronger and stronger?\p"
-	.string "Come on, let's go home.\n"
-	.string "Everyone's waiting for you.$"
+	.string "Why, you need to change your tactics\n"
+	.string "and adapt.\p"
+	.string "Come on, let's go home and plan.\n"
+	.string "You can beat {PLAYER} next time.$"
 
 MauvilleCity_Text_UncleVisitUsSometime:
-	.string "UNCLE: {PLAYER}{KUN}, it just dawned on me\n"
-	.string "that you must be the TRAINER who kept\l"
-	.string "an eye out for ED when he caught\l"
-	.string "his POKéMON.\p"
-	.string "Why don't you visit us in VERDANTURF\n"
-	.string "sometime?\l"
-	.string "I'm sure ED would enjoy it.$"
+	.string "UNCLE: {PLAYER}{KUN}, you haven't come\n"
+	.string "to VERDANTURF in a while!\l"
+	.string "The MILTANK herd has really grown.\l"
+	.string "Although...\p"
+	.string "There are a few jobs that need doing:\n"
+	.string "The barn roof would be a good place\l"
+	.string "to start if you're ever in the area.$"
 
 
 MauvilleCity_Text_WallyPokenavCall:
@@ -553,7 +555,7 @@ MauvilleCity_Text_WallyPokenavCall:
 	.string "… … … … … Beep!\p"
 	.string "ED: Oh, hello, {PLAYER}!\p"
 	.string "I just wanted to tell you that\n"
-	.string "my uncle bought me a POKéNAV!\p"
+	.string "I saved up for a POKéNAV!\p"
 	.string "Now I can get in touch with you\n"
 	.string "anytime, {PLAYER}!\p"
 	.string "… … … … … …\n"
@@ -566,7 +568,7 @@ MauvilleCity_Text_RegisteredWally:
 MauvilleCity_Text_ScottYouDidntHoldBack:
 	.string "SCOTT: Hehe…\n"
 	.string "I was watching that match!\p"
-	.string "You're friends with that boy ED,\n"
+	.string "You're brothers with that boy ED,\n"
 	.string "aren't you?\p"
 	.string "But you didn't hold anything back\n"
 	.string "and beat him impressively.\p"

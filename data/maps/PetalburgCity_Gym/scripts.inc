@@ -1148,27 +1148,28 @@ PetalburgCity_Gym_Text_DadYoureHereWithYourPokemon:
 	.string "I'm surprised that you managed to\n"
 	.string "get here by yourself.\p"
 	.string "Oh, I see.\n"
-	.string "You're with your POKéMON.\p"
-	.string "Hm… Then I guess you're going to\n"
+	.string "You're with your dog.\p"
+	.string "Hm… That's certainly one way to\n"
 	.string "become a TRAINER like me, {PLAYER}.\p"
-	.string "That's great news!\n"
-	.string "I'll be looking forward to it!$"
+	.string "Sure, why not!\n"
+	.string "I'll be looking forward to seeing\l"
+	.string "how you manage!$"
 
 PetalburgCity_Gym_Text_WallyIdLikeAPokemon:
 	.string "Um… I…\n"
-	.string "I'd like to get a POKéMON, please…$"
+	.string "Can I get a POKéMON, please…$"
 
 PetalburgCity_Gym_Text_DadOhYoureWallyRight:
-	.string "DAD: Hm? You're… Uh… Oh, right.\n"
-	.string "You're ED, right?$"
+	.string "DAD: Hm? Oh... Ed!\n"
+	.string "What was that you said?$"
 
 PetalburgCity_Gym_Text_WallyIveNeverCaughtAPokemon:
-	.string "ED: I'm going to go stay with my\n"
-	.string "relatives in VERDANTURF TOWN.\p"
-	.string "I thought I would be lonely by myself,\n"
-	.string "so I wanted to take a POKéMON along.\p"
-	.string "But I've never caught a POKéMON before.\n"
-	.string "I don't know how…$"
+	.string "ED: I'm going to go stay at our UNCLE's\n"
+	.string "in VERDANTURF TOWN.\p"
+	.string "They all already have POKéMON there,\n"
+	.string "so I wanted to take my own along.\p"
+	.string "I read how to catch one, can I try?\n"
+	.string "I don't have any POKé BALLs…$"
 
 PetalburgCity_Gym_Text_DadHmISee:
 	.string "DAD: Hm. I see.$"
@@ -1185,13 +1186,14 @@ PetalburgCity_Gym_Text_IllLoanYouMyZigzagoon:
 
 PetalburgCity_Gym_Text_WallyThankYouAndDadGivesPokeBall:
 	.string "ED: Oh, wow!\n"
-	.string "A POKéMON!\p"
-	.string "DAD: Hm. I'll give you a POKé BALL, too.\n"
-	.string "Go for it!\p"
+	.string "Thanks DAD! Although a ZIGZAGOON?\l"
+	.string "All they're good for is HMs...\p"
+	.string "DAD: Shush you. I'll give you a\n"
+	.string "POKé BALL, too. Go for it!\p"
 	.string "ED received a POKé BALL!$"
 
 PetalburgCity_Gym_Text_WallyOhWowThankYou:
-	.string "ED: Oh, wow!\n"
+	.string "ED: Sweeeeet!\n"
 	.string "Thank you!$"
 
 PetalburgCity_Gym_Text_WouldYouReallyComeWithMe:
@@ -1203,16 +1205,16 @@ PetalburgCity_Gym_Text_DadSoDidItWorkOut:
 
 PetalburgCity_Gym_Text_WallyThankYouBye:
 	.string "ED: Thank you, yes, it did.\n"
-	.string "Here's your POKéMON back.\p"
+	.string "Here's your ZIGZAGOON back.\p"
 	.string "{PLAYER}, thank you for coming along\n"
 	.string "with me.\p"
-	.string "You two are why I was able to catch\n"
-	.string "my POKéMON.\p"
+	.string "I'm really happy you helped me\n"
+	.string "catch my first POKéMON.\p"
 	.string "I promise I'll take really good\n"
 	.string "care of it.\p"
-	.string "Oh! My mom's waiting for me,\n"
+	.string "Oh! Mum asked me to help cook,\n"
 	.string "so I have to go!\p"
-	.string "Bye, {PLAYER}!$"
+	.string "Smell you later, {PLAYER}!$"
 
 PetalburgCity_Gym_Text_DadGoCollectBadges:
 	.string "DAD: Now…\p"
