@@ -2588,7 +2588,7 @@ MatchCall_Text_Brendan15::
 
 MatchCall_Text_Wally1::
 	.string "ED: Oh, {PLAYER}!\p"
-	.string "I've been getting healthier and\n"
+	.string "I've been getting stronger and\n"
 	.string "more physically fit.\p"
 	.string "I hope I can become a TRAINER like\n"
 	.string "you soon, {PLAYER}!$"
@@ -2600,7 +2600,7 @@ MatchCall_Text_Wally2::
 
 MatchCall_Text_Wally3::
 	.string "ED: Oh, {PLAYER}!\p"
-	.string "I… I left my uncle's place in\n"
+	.string "I… I left our uncle's place in\n"
 	.string "VERDANTURF without telling anyone.\p"
 	.string "I wonder if he's furious with me…\p"
 	.string "{PLAYER}, you understand how\n"
@@ -2633,8 +2633,8 @@ MatchCall_Text_Wally6::
 
 MatchCall_Text_Wally7::
 	.string "ED: Oh, {PLAYER}!\p"
-	.string "Before I met you, I hardly ever\n"
-	.string "left my house…\p"
+	.string "Before I met RALTS, I hardly ever\n"
+	.string "left the house…\p"
 	.string "But now, I'm on an adventure with\n"
 	.string "my very own POKéMON…\p"
 	.string "{PLAYER}…\n"

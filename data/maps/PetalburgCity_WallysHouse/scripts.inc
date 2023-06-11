@@ -68,39 +68,42 @@ PetalburgCity_WallysHouse_EventScript_ReceivedHM03Surf::
 	end
 
 PetalburgCity_WallysHouse_Text_ThanksForPlayingWithWally:
-	.string "You're…\n"
-	.string "Ah, you must be {PLAYER}{KUN}, right?\p"
+	.string "Hey, {PLAYER}!\n"
+	.string "Have you seen ED around?\p"
 	.string "Thank you for playing with ED a\n"
 	.string "little while ago.\p"
-	.string "He's been frail and sickly ever\n"
-	.string "since he was a baby.\p"
-	.string "We've sent him to stay with my relatives\n"
+	.string "He's gained a lot of confidence\n"
+	.string "from you.\p"
+	.string "He's been doing well in\n"
 	.string "in VERDANTURF TOWN for a while.\p"
-	.string "The air is a lot cleaner there\n"
-	.string "than it is here.\p"
-	.string "What's that? Where's ED?\n"
-	.string "He's already left, our ED.\p"
+	.string "He says they aren't good enough\n"
+	.string "at MR MIMEO KART though, he needs\l"
+	.string "help getting stars or something?\p"
+	.string "What's that? Where's ED now?\n"
+	.string "He's already left, I think.\p"
 	.string "I wonder where he could have\n"
 	.string "gotten by now?$"
 
 PetalburgCity_WallysHouse_Text_WonderHowWallyIsDoing:
-	.string "I wonder how our ED is doing?$"
+	.string "I wonder how ED is doing?$"
 
 PetalburgCity_WallysHouse_Text_PleaseExcuseUs:
-	.string "{PLAYER}{KUN}! Please excuse us for\n"
-	.string "dragging you here this way.\p"
-	.string "But our ED's become very healthy\n"
+	.string "{PLAYER}{KUN}! Nice to see you\n"
+	.string "all the way our here.\p"
+	.string "Your ED's become very motivated\n"
 	.string "since he went to VERDANTURF TOWN.\p"
 	.string "We owe it all to you!\p"
-	.string "When ED left town, you helped\n"
+	.string "When ED left home, you helped\n"
 	.string "him catch a POKéMON, right?\p"
 	.string "I think that made ED really\n"
-	.string "happy.\p"
-	.string "Actually, not just ED.\n"
-	.string "It made me, his father, happy too.\p"
-	.string "Happy that he's gained such a great\n"
-	.string "friend as you.\p"
-	.string "This isn't a bribe or anything, but\n"
+	.string "driven.\p"
+	.string "I guess you're wondering who I am.\n"
+	.string "Just a random guy who follows what\l"
+	.string "ED is up to.\p"
+	.string "I'm happy that he's gained such a\n"
+	.string "great friend as you.\p"
+	.string "I know your mum probably told you\n"
+	.string "not to take gifts from strangers but,\l"
 	.string "I'd really like you to have this.$"
 
 PetalburgCity_WallysHouse_Text_SurfGoAllSortsOfPlaces:
@@ -108,15 +111,15 @@ PetalburgCity_WallysHouse_Text_SurfGoAllSortsOfPlaces:
 	.string "able to go to all sorts of places.$"
 
 PetalburgCity_WallysHouse_Text_WallyIsComingHomeSoon:
-	.string "ED's coming home soon.\n"
+	.string "ED's coming back to ALMONDBURG soon.\n"
 	.string "I'm looking forward to that.$"
 
 PetalburgCity_WallysHouse_Text_YouMetWallyInEverGrandeCity:
 	.string "Oh? You met ED in\n"
 	.string "EVER GRANDE CITY?\p"
 	.string "Oh, {PLAYER}{KUN}, don't be silly.\p"
-	.string "He may have gotten healthy, but he\n"
-	.string "can't go somewhere far away like\l"
+	.string "He may have gone to VERDANTURF, but\n"
+	.string "he can't go somewhere far away like\l"
 	.string "that all by himself.$"
 
 PetalburgCity_WallysHouse_Text_WallyWasReallyHappy:
@@ -127,10 +130,10 @@ PetalburgCity_WallysHouse_Text_WallyWasReallyHappy:
 
 PetalburgCity_WallysHouse_Text_WallyLeftWithoutTelling:
 	.string "I want you to keep this a secret\n"
-	.string "from my husband…\p"
+	.string "from his parents...\p"
 	.string "But our ED left VERDANTURF TOWN\n"
 	.string "without telling anyone.\p"
-	.string "You know, ED is frail, but\n"
+	.string "You know, ED is young, but\n"
 	.string "he's surprisingly strong-willed.\p"
 	.string "I'm sure that he'll come back safe\n"
 	.string "and sound one day!$"

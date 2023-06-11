@@ -489,12 +489,12 @@ MauvilleCity_Text_WallyWillYouBattleMe:
 	.string "ED: Oh! Hey, {PLAYER}!\p"
 	.string "I've gotten a lot stronger since\n"
 	.string "you last saw me.\p"
-	.string "I've learnt about my POKéMON\n"
-	.string "too.\p"
+	.string "I'm not just a Small Green-Haired\n"
+	.string "Boy any more.\p"
 	.string "{PLAYER}, can we battle so I can\n"
 	.string "see if I've actually improved?\p"
 	.string "You know, all the trainers round\n"
-	.string "here are too easy compared to you.$"
+	.string "here are too easy.$"
 
 MauvilleCity_Text_WallyMyUncleWontKnowImStrong:
 	.string "ED: Oh… too scared to battle me,\n"
@@ -529,8 +529,9 @@ MauvilleCity_Text_ThankYouNotEnoughToBattle:
 	.string "{PLAYER}, thank you.\n"
 	.string "Being a TRAINER is tough, isn't it?\p"
 	.string "It's not enough just to have POKéMON\n"
-	.string "and make them battle. That isn't what\l"
-	.string "being a real TRAINER is about.$"
+	.string "and make them battle. Being a\l"
+	.string "real TRAINER is about having a\l"
+	.string "reason to fight.$"
 
 MauvilleCity_Text_UncleNoNeedToBeDown:
 	.string "UNCLE: ED, there's no need to be so\n"

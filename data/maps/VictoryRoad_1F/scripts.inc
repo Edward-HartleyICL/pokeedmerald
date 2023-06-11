@@ -143,8 +143,11 @@ VictoryRoad_1F_Text_WallyPostEntranceBattle:
 
 VictoryRoad_1F_Text_WallyIntro:
 	.string "ED: Hi! {PLAYER}!\p"
+	.string "You know I ran into a TANGELA while\n"
+	.string "travelling?! It was thanks to your\l"
+	.string "'training' that I could escape it's grip.\p"
 	.string "I've gotten stronger since that last\n"
-	.string "time! I wanted to show you, {PLAYER}!\p"
+	.string "time! I want to show you, {PLAYER}!\p"
 	.string "Okay… Here I come!$"
 
 VictoryRoad_1F_Text_WallyDefeat:

@@ -84,12 +84,12 @@ VerdanturfTown_WandasHouse_EventScript_WallysAuntEverGrande::
 
 VerdanturfTown_WandasHouse_Text_StrongerSpeech:
 	.string "ED: I lost to you, {PLAYER}, but I'm\n"
-	.string "not feeling down anymore.\p"
+	.string "feeling good.\p"
 	.string "Because I have a new purpose in life.\n"
 	.string "Together with my RALTS, I'm going\l"
 	.string "to challenge POKéMON GYMS and become\l"
 	.string "a great TRAINER.\p"
-	.string "Please watch me, {PLAYER}.\n"
+	.string "Just watch me, {PLAYER}.\n"
 	.string "I'm going to be stronger than you.\p"
 	.string "When I do, I'm going to challenge you\n"
 	.string "to another battle.$"
@@ -103,13 +103,14 @@ VerdanturfTown_WandasHouse_Text_StrongerSpeechShort:
 VerdanturfTown_WandasHouse_Text_WallysNextDoor:
 	.string "UNCLE: Oh! {PLAYER}{KUN}!\n"
 	.string "ED's next door.\p"
-	.string "But, boy, there's something I have to\n"
-	.string "tell you.\p"
-	.string "This natural environment is doing\n"
-	.string "wonders for ED's health.\p"
-	.string "Maybe it's not just the environment.\n"
-	.string "It could be POKéMON that are giving\l"
-	.string "the boy hope.$"
+	.string "I think he's trying to make a\n"
+	.string "wooden glider or something?\p"
+	.string "He seems comfortable trying stuff\n"
+	.string "out, guess that's a sign of a\l"
+	.string "good childhood.\p"
+	.string "He managed to cut his finger, but\n"
+	.string "instead of complaining just got\l"
+	.string "his POKéMON to heal him right up.$"
 
 VerdanturfTown_WandasHouse_Text_WallySlippedOff:
 	.string "ED's gone away…\n"
@@ -123,14 +124,14 @@ VerdanturfTown_WandasHouse_Text_WallyGoneThatFar:
 	.string "my little brother's son.$"
 
 VerdanturfTown_WandasHouse_Text_MeetWanda:
-	.string "WANDA: You are?\n"
-	.string "Oh, right, I get it!\p"
-	.string "You're the {PLAYER} who ED was\n"
-	.string "telling me about.\p"
-	.string "I'm ED's cousin.\n"
-	.string "Glad to meet you!\p"
-	.string "I think ED's become a lot more lively\n"
-	.string "and healthy since he came here.$"
+	.string "WANDA: Yooo {PLAYER}!\n"
+	.string "How are you doing?\p"
+	.string "ED was telling me about how\n"
+	.string "you helped him catch his RALTS.\p"
+	.string "How's life cousin?\n"
+	.string "You challenging the gyms?\p"
+	.string "About time, I thought you'd be\n"
+	.string "champion by now!$"
 
 VerdanturfTown_WandasHouse_Text_DontWorryAboutWally:
 	.string "WANDA: Don't worry about ED.\n"
