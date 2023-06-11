@@ -1107,7 +1107,7 @@ RustboroCity_Text_WaitDontTakeMyGoods:
 RustboroCity_Text_HelpMeIWasRobbed:
 	.string "Oh, it's you!\p"
 	.string "You're that fantastic TRAINER who\n"
-	.string "helped me in PETALBURG WOODS!\p"
+	.string "helped me in ALMONDBURG WOODS!\p"
 	.string "Help me! I was robbed by TEAM AQUA!\n"
 	.string "I have to get the DEVON GOODS back!\p"
 	.string "If I don't…\n"
@@ -1196,7 +1196,7 @@ RustboroCity_Text_RegisteredBrendan:
 
 RustboroCity_Text_BrendanPassedBrineyWantToBattle:
 	.string "BRENDAN: By the way, {PLAYER}, I walked\n"
-	.string "by MR. BRINEY in PETALBURG WOODS.\p"
+	.string "by MR. BRINEY in ALMONDBURG WOODS.\p"
 	.string "I bet he was on his way home to his\n"
 	.string "cottage by the sea.\p"
 	.string "{PLAYER}, how's your POKéDEX?\n"

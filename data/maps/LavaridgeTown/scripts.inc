@@ -297,7 +297,7 @@ LavaridgeTown_Text_MayExplainGoGogglesChallengeDad:
 	.string "I always knew you were good, but i bet\n"
 	.string "ED isn't far behind!\p"
 	.string "{PLAYER}{KUN}, maybe it's time you\n"
-	.string "challenge dad in ORMELBURG GYM.\p"
+	.string "beat dad in GREAT ALMONDBURG GYM.\p"
 	.string "See you again!$"
 
 LavaridgeTown_Text_BrendanNiceBadgesTakeThis:
@@ -316,8 +316,8 @@ LavaridgeTown_Text_BrendanExplainGoGogglesChallengeDad:
 	.string "are exclusively desert-dwellers.\l"
 	.string "You might look around for those.\p"
 	.string "As for me…\n"
-	.string "I'm considering challenging NORMAN,\l"
-	.string "the GYM LEADER of PETALBURG.\p"
+	.string "I'm considering challenging JOHN,\l"
+	.string "the GYM LEADER of GREAT ALMONDBURG.\p"
 	.string "Unlike you, {PLAYER}, your dad looks like\n"
 	.string "he really is tough.\p"
 	.string "See you around!$"

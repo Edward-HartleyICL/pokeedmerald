@@ -5,12 +5,11 @@ done name change and graphics done to switch MAY to JAMES (looks like brendan)
 done MAY/JAMES text changes - need to change flavour of JAMES text to be jamesian
 
 need to do team magma/water peeps
-need to switch WALLY to ED and NORMAN to JOHN - done name change but need to do flavour
-need to do a complete MAY sweep and pokemon change. - got James's party need to put it in
+done switch WALLY to ED and NORMAN to JOHN, including most text if not all
+done complete MAY sweep and pokemon change. - done James's party but need to add extra battle
 
 need to do a PETALBURG -> (GREAT) ORMELBURG -> ALMONDBURG sweep
 need to do a NORMAN -> JOHN
-need to do a RIVAL pokemon switch, may need to look for "May" for it
 
 ED is WALLY!
 JAMES is RIVAL!

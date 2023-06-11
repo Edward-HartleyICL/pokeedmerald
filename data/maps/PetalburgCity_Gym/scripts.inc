@@ -1312,7 +1312,7 @@ PetalburgCity_Gym_Text_PleaseComeWithMe:
 	.string "I have something I want you to have.$"
 
 PetalburgCity_Gym_Text_LetMeBorrowPlayer:
-	.string "NORMAN, you don't mind, do you?\p"
+	.string "JOHN, you don't mind, do you?\p"
 	.string "Let me borrow your {PLAYER}{KUN} for\n"
 	.string "a minute or two.$"
 
@@ -1337,7 +1337,7 @@ PetalburgCity_Gym_Text_GymGuideAdvice:
 	.string "beat the awaiting TRAINERS.\p"
 	.string "Whoops! The doors in this room are\n"
 	.string "already open, so don't attack me!\p"
-	.string "The TRAINERS of PETALBURG GYM\n"
+	.string "The TRAINERS of ALMONDBURG GYM\n"
 	.string "use all kinds of items.\p"
 	.string "The door at the left leads to\n"
 	.string "the SPEED ROOM.\p"
@@ -1439,8 +1439,8 @@ PetalburgCity_Gym_Text_BerkePostBattle:
 
 PetalburgCity_Gym_Text_BerkePostBadge:
 	.string "Since your dad became the LEADER,\n"
-	.string "the TRAINERS of PETALBURG CITY have\l"
-	.string "become a lot tougher.$"
+	.string "the TRAINERS of ALMONDBURG CITY have\l"
+	.string "become a lot tougher, and cleaner!$"
 
 PetalburgCity_Gym_Text_MaryIntro:
 	.string "Giggle…\n"
@@ -1551,11 +1551,11 @@ PetalburgCity_Gym_Text_EnterGymLeadersRoom:
 	.string "Do you want to go through?$"
 
 PetalburgCity_Gym_Text_GymStatue:
-	.string "PETALBURG CITY POKéMON GYM$"
+	.string "GREAT ALMONDBURG CITY POKéMON GYM$"
 
 PetalburgCity_Gym_Text_GymStatueCertified:
-	.string "PETALBURG CITY POKéMON GYM\p"
-	.string "NORMAN'S CERTIFIED TRAINERS:\n"
+	.string "GREAT ALMONDBURG CITY POKéMON GYM\p"
+	.string "JOHN'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"
 
 PetalburgCity_Gym_Text_NormanPreRematch:

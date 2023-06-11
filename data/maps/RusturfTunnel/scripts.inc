@@ -467,7 +467,7 @@ RusturfTunnel_Text_ThankYouLetsGoHomePeeko:
 	.string "Now, if there's anything that troubles\n"
 	.string "you, don't hesitate to tell me!\p"
 	.string "You can usually find me in my cottage\n"
-	.string "by the sea near PETALBURG WOODS.\p"
+	.string "by the sea near ALMONDBURG WOODS.\p"
 	.string "Come, PEEKO, we should make our way\n"
 	.string "home.\p"
 	.string "PEEKO: Pihyoh!$"
