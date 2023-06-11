@@ -2396,7 +2396,7 @@ MatchCall_Text_May8::
 	.string "JAMES: {PLAYER}{KUN}, hi.\p"
 	.string "MT. PYRE is a memorial to POKéMON\n"
 	.string "whose lives have ended.\p"
-	.string "Maybe as a result, it's infested\n"
+	.string "As a result, it's infested\n"
 	.string "with many GHOST-type POKéMON!$"
 
 MatchCall_Text_May9::

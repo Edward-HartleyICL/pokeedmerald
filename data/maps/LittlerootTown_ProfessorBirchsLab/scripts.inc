@@ -786,12 +786,12 @@ LittlerootTown_ProfessorBirchsLab_Text_MayGotPokedexTooTakeThese:
 	.string "Here's something to help you keep up!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_CatchCutePokemonWithPokeBalls:
-	.string "JAMES: It's fun if you can get a lot of\n"
-	.string "POKéMON!\p"
+	.string "JAMES: It's useful if you can get a\n"
+	.string "lot of POKéMON!\p"
 	.string "I'm going to look all over the place\n"
 	.string "because I want different POKéMON.\p"
-	.string "If I find any cool POKéMON, I'll catch\n"
-	.string "them with POKé BALLS!$"
+	.string "If I find any interesting POKéMON, I'll\n"
+	.string "catch them with POKé BALLS!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_OhYourBagsFull:
 	.string "Oh? Your BAG's full.$"
@@ -985,8 +985,9 @@ LittlerootTown_ProfessorBirchsLab_Text_MayWhatNextImStayingHere:
 	.string "and sharpening your skills?\p"
 	.string "Or are you going to try filling\n"
 	.string "the NATIONAL POKéDEX?\p"
-	.string "I'm going to become a POKéMON breeder.\n"
-	.string "Lol jk, I'm going to get really strong.$"
+	.string "I'm going to research POKéMON. That'll\n"
+	.string "also let me become a really strong\l"
+	.string "trainer.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanPreferCollectingSlowly:
 	.string "BRENDAN: Rather than collecting\n"

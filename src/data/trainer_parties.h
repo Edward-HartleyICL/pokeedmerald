@@ -6961,7 +6961,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_MayRoute103Treecko[] = {
     {
     .iv = 0,
     .lvl = 5,
-    .species = SPECIES_TORCHIC,
+    .species = SPECIES_TRAPINCH,
     }
 };
 
@@ -6969,12 +6969,12 @@ static const struct TrainerMonNoItemDefaultMoves sParty_MayRoute110Treecko[] = {
     {
     .iv = 50,
     .lvl = 18,
-    .species = SPECIES_WINGULL,
+    .species = SPECIES_TRAPINCH,
     },
     {
     .iv = 50,
     .lvl = 18,
-    .species = SPECIES_LOMBRE,
+    .species = SPECIES_GHASTLY,
     },
     {
     .iv = 100,
@@ -6986,18 +6986,23 @@ static const struct TrainerMonNoItemDefaultMoves sParty_MayRoute110Treecko[] = {
 static const struct TrainerMonNoItemDefaultMoves sParty_MayRoute119Treecko[] = {
     {
     .iv = 100,
-    .lvl = 29,
-    .species = SPECIES_PELIPPER,
+    .lvl = 35,
+    .species = SPECIES_VIBRAVA,
     },
     {
     .iv = 100,
-    .lvl = 29,
-    .species = SPECIES_LOMBRE,
+    .lvl = 30,
+    .species = SPECIES_HAUNTER,
     },
     {
     .iv = 150,
     .lvl = 31,
     .species = SPECIES_COMBUSKEN,
+    },
+    {
+    .iv = 150,
+    .lvl = 33,
+    .species = SPECIES_ABSOL,
     }
 };
 
@@ -8978,23 +8983,28 @@ static const struct TrainerMonNoItemDefaultMoves sParty_MayLilycoveMudkip[] = {
 static const struct TrainerMonNoItemDefaultMoves sParty_MayLilycoveTreecko[] = {
     {
     .iv = 150,
-    .lvl = 31,
-    .species = SPECIES_TROPIUS,
+    .lvl = 35,
+    .species = SPECIES_ABSOL,
     },
     {
     .iv = 150,
-    .lvl = 32,
-    .species = SPECIES_PELIPPER,
+    .lvl = 37,
+    .species = SPECIES_VIBRAVA,
     },
     {
     .iv = 150,
-    .lvl = 32,
-    .species = SPECIES_LUDICOLO,
+    .lvl = 34,
+    .species = SPECIES_HAUNTER,
     },
     {
     .iv = 200,
-    .lvl = 34,
-    .species = SPECIES_COMBUSKEN,
+    .lvl = 36,
+    .species = SPECIES_BLAZIKEN,
+    },
+    {
+    .iv = 200,
+    .lvl = 36,
+    .species = SPECIES_SKARMORY,
     }
 };
 
@@ -10275,12 +10285,17 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Cristin1[] = {
 static const struct TrainerMonNoItemDefaultMoves sParty_MayRustboroTreecko[] = {
     {
     .iv = 25,
-    .lvl = 13,
-    .species = SPECIES_LOTAD,
+    .lvl = 14,
+    .species = SPECIES_TRAPINCH,
     },
     {
     .iv = 50,
-    .lvl = 15,
+    .lvl = 16,
+    .species = SPECIES_GHASTLY,
+    },
+    {
+    .iv = 50,
+    .lvl = 14,
     .species = SPECIES_TORCHIC,
     }
 };

@@ -1097,8 +1097,13 @@ Route104_Text_MayHowsYourPokedex:
 	.string "how's your POKéDEX coming along?$"
 
 Route104_Text_MayMinesDecentLetsBattle:
-	.string "Mine's looking pretty decent.\n"
-	.string "So…\l"
+	.string "Mine's looking pretty decent:\n"
+	.string "I've decided to train this GHASTLY,\l"
+	.string "but it is suuper unnerving.\p"
+	.string "Their evolution, HAUNTER, is\n"
+	.string "quite dangerous, so I'm trying to\l"
+	.string "find what triggers it to evolve.p"
+	.string "So... in the name of science:\n"
 	.string "How about a little battle?$"
 
 Route104_Text_MayHaventRaisedPokemon:

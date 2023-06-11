@@ -290,6 +290,8 @@ LavaridgeTown_Text_MayExplainGoGogglesChallengeDad:
 	.string "JAMES: With those GO-GOGGLES, you'll\n"
 	.string "have no trouble getting through the\l"
 	.string "desert near ROUTE 111.\p"
+	.string "They're designed after the protective\n"
+	.string "layer my VIBRAVA has over it's eyes!\p"
 	.string "But, wow, {PLAYER}{KUN}…\n"
 	.string "Challenging GYMS…\p"
 	.string "I always knew you were good, but i bet\n"

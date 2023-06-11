@@ -482,11 +482,11 @@ Route119_EventScript_ScottWonAtFortreeGymCall::
 Route119_Text_MayIntro:
 	.string "JAMES: {PLAYER}{KUN}!\n"
 	.string "Where were you? I was looking for you!\p"
-	.string "How much stronger have you gotten?\n"
-	.string "Let me check for you!\p"
-	.string "Ready with your POKéMON?\n"
-	.string "Oh yeah, and OLIVE!\l"
-	.string "Of course you are! Go!$"
+	.string "My TRAPINCH evoled into a VIBRAVA,\n"
+	.string "a DRAGON type!\p"
+	.string "Want to test it against your POKéMON?\n"
+	.string "Oh yeah, and OLIVE of course!\l"
+	.string "I bet you do! Go!$"
 
 Route119_Text_MayDefeat:
 	.string "Achah!\n"
@@ -508,7 +508,7 @@ Route119_Text_MayExplainFly:
 	.string "That's important, so don't forget.\p"
 	.string "You should FLY home and visit\n"
 	.string "LITTLEROOT for a change.\p"
-	.string "I bet your mom's worried about you,\n"
+	.string "I bet mom's worried about you,\n"
 	.string "{PLAYER}{KUN}.\p"
 	.string "Well, let's meet again somewhere!$"
 

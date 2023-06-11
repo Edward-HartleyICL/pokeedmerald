@@ -1147,13 +1147,13 @@ RustboroCity_Text_RegisteredMay:
 	.string "in the POKéNAV.$"
 
 RustboroCity_Text_MayPassedBrineyWantToBattle:
-	.string "JAMES: Oh, by the way, I passed\n"
-	.string "MR. BRINEY in PETALBURG WOODS.\p"
-	.string "I guess he's on his way home to his\n"
-	.string "cottage by the sea.\p"
-	.string "How's your POKéDEX coming along,\n"
-	.string "{PLAYER}{KUN}? Mine's looking pretty decent!\p"
-	.string "So…\n"
+	.string "Mine's looking pretty decent:\n"
+	.string "I've decided to train this GHASTLY,\l"
+	.string "but it is suuper unnerving.\p"
+	.string "Their evolution, HAUNTER, is\n"
+	.string "quite dangerous, so I'm trying to\l"
+	.string "find what triggers it to evolve.p"
+	.string "So... in the name of science:\n"
 	.string "How about a little battle?$"
 
 RustboroCity_Text_MayOhHaventRaisedPokemonEnough:
@@ -1172,14 +1172,15 @@ RustboroCity_Text_MayImNotGoingToLose:
 
 RustboroCity_Text_MayDefeat:
 	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.string "That was surprisingly good!$"
 
 RustboroCity_Text_MayMrBrineyHint:
-	.string "JAMES: Oh, by the way, MR. BRINEY, who\n"
-	.string "I just passed…\p"
-	.string "{PLAYER}{KUN}, you just moved here so you\n"
-	.string "might not know this, but MR. BRINEY\l"
-	.string "was once a revered seafarer.$"
+	.string "JAMES: I can tell you've gotten pretty\n"
+	.string "good with the way you handle POKéMON.\p"
+	.string "But instead of only making them\n"
+	.string "battle, you should be like MR. BRINEY.\p"
+	.string "It's important to become friends with\n"
+	.string "POKéMON, too.$"
 
 RustboroCity_Text_BrendanHiLetsRegister:
 	.string "BRENDAN: Oh, hey, {PLAYER}!\p"

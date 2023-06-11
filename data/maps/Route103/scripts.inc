@@ -294,15 +294,15 @@ Route103_Text_MayRoute103Pokemon:
 
 Route103_Text_MayLetsBattle:
 	.string "Oh, hi, {PLAYER}{KUN}!\p"
-	.string "…Oh, I see, my dad gave you\n"
-	.string "a POKéMON as a gift.\p"
-	.string "Since we're here, let's have a quick\n"
-	.string "battle!\p"
+	.string "…Oh, I see, the professor gave you\n"
+	.string "a... DOG?\p"
+	.string "Are you sure you want to try to battle\n"
+	.string "with that? Well okay...\p"
 	.string "I'll give you a taste of what being\n"
 	.string "a TRAINER is like.$"
 
 Route103_Text_MayDefeated:
-	.string "Wow! That's great!\n"
+	.string "Wow! That's impressive!\n"
 	.string "{PLAYER}{KUN}, you're pretty good!$"
 
 Route103_Text_MayTimeToHeadBack:
